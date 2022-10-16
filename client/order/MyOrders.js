@@ -15,7 +15,7 @@ const useStyles = makeStyles(theme => ({
     maxWidth: 600,
     margin: '12px 24px',
     padding: theme.spacing(3),
-    backgroundColor: '#3f3f3f0d'
+    backgroundClip: `url("https://img.freepik.com/free-vector/blurred-background-with-light-colors_1034-245.jpg?w=826&t=st=1665876063~exp=1665876663~hmac=166189bd0c2abc19fc26a012bab753a5798df9e1d9d49471ce0f9d78b810eb34")`
   }),
   title: {
     margin: `${theme.spacing(2)}px 0 12px ${theme.spacing(1)}px`,

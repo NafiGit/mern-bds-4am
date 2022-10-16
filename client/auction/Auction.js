@@ -15,12 +15,14 @@ const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,
     margin: 60,
+    
   },
   flex:{
     display:'flex'
   },
   card: {
-    padding:'24px 40px 40px'
+    padding:'24px 40px 40px',
+    
   },
   subheading: {
     margin: '16px',
@@ -29,7 +31,8 @@ const useStyles = makeStyles(theme => ({
   description: {
     margin: '16px',
     fontSize: '0.9em',
-    color: '#4f4f4f'
+    color: '#4f4f4f',
+        
   },
   price: {
     padding: '16px',
